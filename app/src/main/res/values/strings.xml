@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginOTP</string>
+    <string name="phone_no">Phone No</string>
+    <string name="submit">Submit</string>
+    <string name="internet_error_title">Internet Error</string>
+    <string name="loading_msg">Loading.....</string>
+    <string name="incorrect_otp">Incorrect OTP</string>
+    <string name="otp">Enter OTP</string>
+    <string name="internet_error">Please Check Your internet Connection</string>
+</resources>
